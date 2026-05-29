@@ -26,6 +26,17 @@ Estudiante / analista de datos apasionado por convertir datos en decisiones. Est
   - 3 páginas: Overview, Factores de Riesgo, Perfil de Riesgo
 - 🔗 [Ver dashboard en Power BI](https://app.powerbi.com/groups/me/reports/d39da9c4-31e3-4f92-87fc-f233a227ba13/40989c459ddb164c18a4?experience=power-bi)
 ---
+
+### 2. 💳 Análisis de Riesgo Crediticio
+**¿Qué clientes tienen mayor probabilidad de no pagar?**
+
+- 📁 Dataset: Home Credit Default Risk (Kaggle)
+- 🛠️ Herramientas: Power BI, DAX
+- 📌 Highlights:
+  - Análisis de 300k+ clientes
+  - Segmentación por riesgo, educación e ingreso
+  - 2 páginas: Overview y Risk Analysis
+- 🔗 [Ver dashboard en Power BI](https://app.powerbi.com/groups/me/reports/131d2cf8-e10f-41d7-bd15-b310169bd886/b8785c525943e0adf293?experience=power-bi)
  
 
  
